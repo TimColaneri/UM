@@ -13,4 +13,4 @@ Relevant Links:
 - Untuned data structure source: https://github.com/drh
 - UM homepage: http://www.boundvariable.org/
 - 2006 Contest Information: http://justsolve.archiveteam.org/wiki/Universal_Machine_(ICFP_programming_contest_2006)
-- ICFP Programmin Contest: https://www.icfpconference.org/contest.html
+- ICFP Programming Contest: https://www.icfpconference.org/contest.html
